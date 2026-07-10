@@ -15,7 +15,7 @@ The designs were created to the following widths:
 
 - White: hsl(0, 0%, 100%)
 - Black: hsl(0, 0%, 0%)
-- Grey 200: hsl(0, 0%, 85%)
+- Grey 200: #d9d9d9
 
 ### Neutral
 
